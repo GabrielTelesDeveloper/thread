@@ -1,2 +1,0 @@
-# thread
-Código em C
